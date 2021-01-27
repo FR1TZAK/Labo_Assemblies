@@ -4,9 +4,10 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
-    <ApplicationManifest>app.manifest</ApplicationManifest>
-    <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>LaboReflection.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SyntraABTools\SyntraABTools.csproj" />
+  </ItemGroup>
 
 </Project>

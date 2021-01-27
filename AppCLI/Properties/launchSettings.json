@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\plugins\\PluginLibrary.dll"
+    }
+  }
+}

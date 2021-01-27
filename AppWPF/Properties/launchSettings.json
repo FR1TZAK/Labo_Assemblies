@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppWPF": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\plugins\\PluginLibrary.dll"
+    }
+  }
+}
